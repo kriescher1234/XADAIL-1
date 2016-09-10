@@ -17,6 +17,7 @@
             result.Path = GetStringValue(nameof(result.Path));
             result.GrimDawnPath = GetStringValue(nameof(result.GrimDawnPath));
             result.IgnorePattern = GetStringValue(nameof(result.IgnorePattern));
+            result.WhitePattern = GetStringValue(nameof(result.WhitePattern));
             return result;
         }
 

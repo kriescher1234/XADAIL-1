@@ -6,5 +6,6 @@
         public string Path { get; set; }
         public string GrimDawnPath { get; set; }
         public string IgnorePattern { get; set; }
+        public string WhitePattern { get; set; }
     }
 }
