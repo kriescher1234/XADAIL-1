@@ -55,3 +55,5 @@ Temporary Items
 /Tools/MissingFilesSearch/MissingFilesSearch/obj/Debug/MissingFilesSearch.exe
 /Tools/MissingFilesSearch/MissingFilesSearch/obj/Debug/MissingFilesSearch.pdb
 *.log
+*.suo
+*.user
